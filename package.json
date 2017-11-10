@@ -1,0 +1,38 @@
+{
+  "name": "basic-aurelia-project",
+  "version": "1.0.0",
+  "description": "basic aurelia prj",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm run server:dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "antonio carlucci",
+  "license": "ISC",
+  "dependencies": {
+    "aurelia-bootstrapper-webpack": "^1.1.0",
+    "aurelia-dragula": "^1.4.4",
+    "aurelia-event-aggregator": "^1.0.0",
+    "aurelia-fetch-client": "^1.0.1",
+    "aurelia-framework": "^1.0.7",
+    "aurelia-history-browser": "^1.0.0",
+    "aurelia-loader-webpack": "^1.0.3",
+    "aurelia-logging-console": "^1.0.0",
+    "aurelia-pal-browser": "^1.0.0",
+    "aurelia-polyfills": "^1.1.1",
+    "aurelia-route-recognizer": "^1.1.0",
+    "aurelia-router": "^1.0.7",
+    "aurelia-templating-binding": "^1.1.0",
+    "aurelia-templating-resources": "^1.2.0",
+    "aurelia-templating-router": "^1.0.0",
+    "aws-sdk": "^2.89.0",
+    "bluebird": "^3.4.6",
+    "bootstrap": "^3.3.7",
+    "chart.js": "^2.6.0",
+    "font-awesome": "^4.7.0",
+    "isomorphic-fetch": "^2.2.1",
+    "jquery": "^2.2.4",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1"
+  }
+}
